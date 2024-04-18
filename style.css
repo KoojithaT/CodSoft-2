@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+#clock {
+  font-size: 6rem;
+  margin-bottom: 1rem;
+}
+
+#created-by {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
